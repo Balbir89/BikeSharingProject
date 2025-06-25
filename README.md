@@ -60,5 +60,5 @@ The cleaned and processed dataset (`BikeSharingData_Berlin_combinedandcleaned.pk
 
 ### 📬 Contact
 
-For questions or collaboration: **[balbirbhatia.20@gmail.com](mailto:balbirbhatia.20@gmail.com)**
+Let me know if have something to ask: **[balbirbhatia.20@gmail.com](mailto:balbirbhatia.20@gmail.com)**
 
