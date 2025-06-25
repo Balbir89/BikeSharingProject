@@ -1,28 +1,65 @@
-BikeSharingProject
+BikeSharingProject – Berlin
 
-This repository contains cleaned and combined bike sharing data from Berlin.
+This repository contains the cleaned and combined bike-sharing data from Berlin. The goal of this project is to analyze how factors like time, day, and weather influence bike rental patterns across the city.
 
-Dataset
+**Dataset**
 
-- File: `BikeSharingData_Berlin_combinedandcleaned.pkl`  
-- Format: Python pickle file (.pkl)  
-- Description: The data includes bike rental records, timestamps, station info, and weather data.
-
-How to use
-
-Load the `.pkl` file in Python using pandas or pickle.  
-Example:
-
-```python
-import pandas as pd
-
-data = pd.read_pickle('BikeSharingData_Berlin_combinedandcleaned.pkl')
-print(data.head())
+- **File**: `BikeSharingData_Berlin_combinedandcleaned.pkl`  
+- **Format**: Python Pickle file (`.pkl`)  
+- **Contents**:  
+- Bike rental records  
+- Timestamps (date, time, weekday, etc.)
+- Station information  
+- Weather data
 
 
-Project background
-This project was completed using Google Colab, focusing on cleaning and combining bike sharing data to analyze usage patterns in Berlin.
+**Project Overview**
 
-Contact
-For questions, contact: balbirbhatia.20@gmail.com
+This project was developed using Google Colab and focuses on:
+
+Cleaning and combining multiple raw data sources
+
+Feature engineering (date/time columns, weather conditions)
+
+Exploratory Data Analysis (EDA) through visualizations
+
+Identifying patterns in bike-sharing usage based on time and weather
+
+
+**Tools & Libraries Used**
+
+Python
+
+Google Colab
+
+pandas
+
+matplotlib
+
+seaborn
+
+scikit-learn
+
+pickle
+
+
+**Key Insights**
+
+Rush Hour Peaks: Rentals peak during morning and evening commute times.
+
+Weather Impact: Rentals increase with warmer temperatures and decrease during rain.
+
+Weekday Trends: Weekdays show higher usage than weekends, consistent with commuter behavior.
+
+
+**Outcome**
+
+The cleaned and processed dataset (BikeSharingData_Berlin_combinedandcleaned.pkl) is ready for further data analysis, machine learning modeling, or visualization/dashboard creation.
+
+
+**Contact Me**
+balbirbhatia.20@gmail.com
+
+
+
 
