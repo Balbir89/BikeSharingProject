@@ -50,14 +50,6 @@ This project analyzes Berlin’s bike-sharing data to uncover patterns in user b
 -  **Weather Impact**: Clear and warm weather days show a 25% higher rental count, while rainy days experience a significant drop of up to 50% in usage.
 -  **Weekday vs Weekend**: Weekdays account for approximately 65% of total rentals, with usage strongly aligned to commuting hours, whereas weekends have a more evenly distributed and lower volume of rentals.
 
----
-
-### Technical Stack & Tools
-
-- `pandas`, `matplotlib`, `seaborn` – data cleaning & visualization  
-- `scikit-learn` – data prep for future modeling  
-- `pickle` – efficient dataset storage  
-- **Google Colab** – cloud-based development environment
 
 ---
 
