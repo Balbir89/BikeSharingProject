@@ -75,7 +75,7 @@ Use the dashboard_ready_dataset.csv with Power BI or Tableau to visualize the fi
 
 ## 📊 Visualizations
 
-![Power BI Dashboard](images/dashboard.png)
+![Top 10 Bikes by Trip Count](images/Top 10 Bikes by Trip Count.png)
 
 ![Rentals by Hour](images/rentals_by_hour.png)
 
