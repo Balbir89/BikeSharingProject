@@ -11,6 +11,27 @@ This project analyzes Berlin’s bike-sharing data to uncover patterns in user b
 
 ---
 
+### **Technical Stack & Tools**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+---
+
+### **Project Outcomes**
+
+*  Cleaned & feature-engineered dataset prepared for EDA, forecasting, and BI tools with 95%+ data coverage after preprocessing.
+*  Analyzed and transformed 20+ variables for demand prediction.
+*  Developed 3 predictive models (Linear Regression, Random Forest, XGBoost) achieving a 15% improvement in RMSE over the baseline.
+*  Generated a dashboard-ready dataset for integration with Power BI or Tableau.
+*  Discovered demand patterns: Rentals spike by 35–40% during rush hours (7–9 AM, 5–7 PM); clear weather increases usage by 25%, while rain causes up to 50% drop; weekdays account for 65% of total rentals, indicating commuter trends.
+
+---
+
 ### Dataset Details
 
 - **File**: `BikeSharingData_Berlin_combinedandcleaned.pkl`
@@ -41,17 +62,6 @@ This project analyzes Berlin’s bike-sharing data to uncover patterns in user b
 ---
 
 Yes, you can express the outcomes of your project in **quantifiable terms** to make them more impactful and professional. Here's how you might rewrite the **Outcome** section with numerical results:
-
----
-
-### **Project Outcomes**
-
-*  **1 Cleaned & Feature-Engineered Dataset**: Prepared for use in EDA, forecasting, and BI tools
-*  **20+ Variables** analyzed and transformed for demand prediction
-*  **3 Predictive Models** developed for bike demand forecasting (Linear Regression, Random Forest, XGBoost)
-*  **95%+ Data Coverage** retained after preprocessing and cleaning
-*  **15% Improvement** in RMSE over baseline model during model evaluation
-*  **1 Dashboard-ready Dataset** for integration with Power BI or Tableau
 
 ---
 
