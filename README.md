@@ -11,24 +11,53 @@ This project analyzes Berlin’s bike-sharing data to uncover patterns in user b
 
 ---
 
-### **Technical Stack & Tools**
+## Tools & Technologies Used
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)](https://powerbi.microsoft.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+## Key Insights
+
+- Bike rentals spike by **35–40%** during morning (7–9 AM) and evening (5–7 PM) rush hours.  
+- Clear and warm weather increases rentals by **25%**, while rainy days reduce usage by up to **50%**.  
+- Weekdays account for about **65%** of total rentals, reflecting commuter behavior.
+
+## How to Run
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Balbir89/BikeSharingProject.git
+   cd BikeSharingProject
+
+
+2. Install required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Launch Jupyter Notebook
+   ```bash
+   jupyter notebook
+   ```
+   Open the .ipynb files to explore data preprocessing, analysis, and model building.
+
+
+4. View Dashboard
+Use the dashboard_ready_dataset.csv with Power BI or Tableau to visualize the final results.
 
 ---
 
 ### **Project Outcomes**
 
-*  Cleaned & feature-engineered dataset prepared for EDA, forecasting, and BI tools with 95%+ data coverage after preprocessing.
-*  Analyzed and transformed 20+ variables for demand prediction.
-*  Developed 3 predictive models (Linear Regression, Random Forest, XGBoost) achieving a 15% improvement in RMSE over the baseline.
-*  Generated a dashboard-ready dataset for integration with Power BI or Tableau.
-*  Discovered demand patterns: Rentals spike by 35–40% during rush hours (7–9 AM, 5–7 PM); clear weather increases usage by 25%, while rain causes up to 50% drop; weekdays account for 65% of total rentals, indicating commuter trends.
+*  **Cleaned & Feature-Engineered Dataset** ready for analysis and BI tools
+*  **20+ Variables** transformed for demand prediction
+*  **3 Predictive Models** built: Linear Regression, Random Forest, XGBoost
+*  **95%+ Data Coverage** retained after preprocessing
+*  **15% RMSE Improvement** over baseline model
+*  **1 Dashboard-ready Dataset** prepared for Power BI/Tableau
+
 
 ---
 
@@ -44,12 +73,35 @@ This project analyzes Berlin’s bike-sharing data to uncover patterns in user b
 
 ---
 
+## 📊 Visualizations
+
+![Power BI Dashboard](images/dashboard.png)
+
+![Rentals by Hour](images/rentals_by_hour.png)
+
+---
+
+### Directory Structure
+
+
+BikeSharingProject/
+├── data/                  # Raw and cleaned datasets
+├── notebooks/             # Jupyter notebooks for EDA & modeling
+├── outputs/               # Model outputs, final datasets, figures
+├── requirements.txt       # Project dependencies
+└── README.md              # Project overview
+
+
+---
+
+
+
+
 ### Key Highlights
 
--  **Rush Hour Trends**: Bike rentals peak sharply during morning hours (7–9 AM) with an average increase of 35%, and evening hours (5–7 PM) see a 40% surge compared to off-peak times.
--  **Weather Impact**: Clear and warm weather days show a 25% higher rental count, while rainy days experience a significant drop of up to 50% in usage.
--  **Weekday vs Weekend**: Weekdays account for approximately 65% of total rentals, with usage strongly aligned to commuting hours, whereas weekends have a more evenly distributed and lower volume of rentals.
-
+-  **Rush Hour Trends**: Rentals peak at 7–9 AM and 5–7 PM (~35–40% of daily activity)
+-  **Weather Impact**:  Clear weather boosts demand by ~25%; rainy days see ~50% drops
+-  **Weekday vs Weekend**: Weekdays account for ~65% of usage, tied to commuter traffic
 
 ---
 
@@ -67,6 +119,14 @@ Let me know if you want the **results visualized** (charts or tables) or added d
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FYRNBP8zQJjSJBxNRSmgN5_1QXlUdmCm)
 
 ---
+
+### License
+
+This project is licensed under the MIT License.
+
+---
+
+
 
 ## 👤 About the Author
 
