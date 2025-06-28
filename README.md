@@ -1,64 +1,65 @@
 # BikeSharingProject – Berlin
 
-This repository contains cleaned and combined bike-sharing data from Berlin. The goal of this project is to analyze how factors like time, day, and weather influence bike rental patterns across the city.
+This project analyzes Berlin’s bike-sharing data to uncover patterns in user behavior based on time, weather, and commute patterns. Built for practical data insights and real-world decision-making.
 
 ---
 
-### 📁 Dataset
+### Project Summary
 
-* **File**: `BikeSharingData_Berlin_combinedandcleaned.pkl`
-* **Format**: Python Pickle file (`.pkl`)
-* **Contents**:
-
-  * Bike rental records
-  * Timestamps (date, time, weekday, etc.)
-  * Station information
-  * Weather data
+-  **Objective**: Understand and visualize how external factors affect bike rental activity in Berlin.
+-  **Target Use Case**: Data-driven insights for urban mobility planning, logistics optimization, and predictive demand modeling.
 
 ---
 
-### 📝 Project Overview
+### Dataset Details
 
-This project was developed using **Google Colab** and focuses on:
-
-* Cleaning and combining multiple raw data sources
-* Feature engineering (date/time columns, weather conditions)
-* Exploratory Data Analysis (EDA) through visualizations
-* Identifying patterns in bike-sharing usage based on time and weather
-
----
-
-### 🛠️ Tools & Libraries Used
-
-* Python
-* Google Colab
-* `pandas`
-* `matplotlib`
-* `seaborn`
-* `scikit-learn`
-* `pickle`
+- **File**: `BikeSharingData_Berlin_combinedandcleaned.pkl`
+- **Format**: Python `.pkl` (Pickle)
+- **Includes**:
+  - Rental timestamps (date, time, weekday)
+  - Station metadata
+  - Integrated weather data
+  - Cleaned and structured for direct analysis
 
 ---
 
-### 📊 Key Insights
+### Key Highlights
 
-* **Rush Hour Peaks**: Rentals peak during morning and evening commute times.
-* **Weather Impact**: Rentals increase with warmer temperatures and decrease during rain.
-* **Weekday Trends**: Weekdays show higher usage than weekends, consistent with commuter behavior.
-
----
-
-### ✅ Outcome
-
-The cleaned and processed dataset (`BikeSharingData_Berlin_combinedandcleaned.pkl`) is ready for:
-
-* Further data analysis
-* Machine learning modeling
-* Visualization or dashboard creation
+-  **Rush Hour Trends**: Rental spikes during morning (7–9 AM) and evening (5–7 PM).
+-  **Weather Impact**: Clear and warm weather increases usage; rain reduces it significantly.
+-  **Weekday vs Weekend**: Weekdays dominate, with usage aligned to work hours.
 
 ---
 
-### 📬 Contact
+### Technical Stack & Tools
 
-Let me know if have something to ask: **[balbirbhatia.20@gmail.com](mailto:balbirbhatia.20@gmail.com)**
+- `pandas`, `matplotlib`, `seaborn` – data cleaning & visualization  
+- `scikit-learn` – data prep for future modeling  
+- `pickle` – efficient dataset storage  
+- **Google Colab** – cloud-based development environment
+
+---
+
+### Outcome
+
+The project results in a **ready-to-use dataset** for:
+
+-  Exploratory data analysis (EDA)
+-  Predictive modeling (e.g., demand forecasting)
+-  Dashboard & business intelligence tools
+
+---
+
+### Quick Access
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FYRNBP8zQJjSJBxNRSmgN5_1QXlUdmCm)
+
+---
+
+### About the Author
+
+**Balbir Singh**  
+Freelance Data & Financial Analyst  
+📬 [balbirbhatia.20@gmail.com](mailto:balbirbhatia.20@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/Balbir89)
 
