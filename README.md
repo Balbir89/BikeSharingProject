@@ -96,8 +96,6 @@ BikeSharingProject/
 ---
 
 
-
-
 ### Key Highlights
 
 -  **Rush Hour Trends**: Rentals peak at 7–9 AM and 5–7 PM (~35–40% of daily activity)
@@ -107,11 +105,6 @@ BikeSharingProject/
 ---
 
 Yes, you can express the outcomes of your project in **quantifiable terms** to make them more impactful and professional. Here's how you might rewrite the **Outcome** section with numerical results:
-
----
-
-Let me know if you want the **results visualized** (charts or tables) or added directly into your GitHub README.
-
 
 ---
 
