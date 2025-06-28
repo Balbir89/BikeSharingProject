@@ -75,10 +75,10 @@ Use the dashboard_ready_dataset.csv with Power BI or Tableau to visualize the fi
 
 ## 📊 Visualizations
 
-![Top 10 Bikes by Trip Count](images/Top_10_Bikes_by_Trip_Count.png)
+![Top 10 Bikes by Trip Count](images/Top%2010%20Bikes%20by%20Trip%20Count.png)
+![Clustered Marker Map of Origins Goal](images/Clustered%20Marker%20Map%20of%20Origins%20Goal.png)
+![Top 10 Starting Locations](images/Top%2010%20starting%20locations%20plot%20generated%20successfull.png)
 
-
-![Rentals by Hour](images/rentals_by_hour.png)
 
 ---
 
