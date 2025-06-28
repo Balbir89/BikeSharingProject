@@ -56,10 +56,12 @@ The project results in a **ready-to-use dataset** for:
 
 ---
 
-### About the Author
+## 👤 About the Author
 
 **Balbir Singh**  
 Freelance Data & Financial Analyst  
-📬 [balbirbhatia.20@gmail.com](mailto:balbirbhatia.20@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/Balbir89)
+[![Email](https://img.shields.io/badge/Email-balbirbhatia.20%40gmail.com-red?style=flat-square&logo=gmail)](mailto:balbirbhatia.20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/yourprofile)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)](https://github.com/Balbir89)
+
 
