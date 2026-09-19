@@ -172,10 +172,11 @@ Place the file in the repository root. Only load pickle files from a trusted sou
 ```bash
 jupyter notebook BikeSharing_Berlin_Cleaned_Combined.ipynb
 ```
-
 ### 5. Run the Notebook
 
-Run the cells from top to bottom. Folium is imported in the first code cell before the map visualizations use it.
+Run the cells from top to bottom to generate the charts and maps. Folium is imported in the first code cell.
+
+The route-sampling cell requires at least 100 rows with complete origin and destination coordinates. Map rendering may be resource-intensive for large datasets.
 
 ### 6. Run the Analysis
 
@@ -210,7 +211,7 @@ The input dataset is downloaded separately from Zenodo.
 
 ## Future Improvements
 
-- Consolidate imports and dependencies for a clean top-to-bottom run.
+- Include all required dependencies in requirements.txt and verify execution from a fresh environment.
 - Add checks for missing values, duplicate records, coordinates, speed and duration.
 - Report the loaded dataset's row count, date range and provider coverage.
 - Analyze collection periods and providers separately.
