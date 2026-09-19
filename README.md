@@ -6,8 +6,10 @@ This project analyzes Berlin’s bike-sharing data to uncover patterns in user b
 
 ### Project Summary
 
--  **Objective**: Analyze and visualize the impact of external factors such as weather, temperature, and seasonality on bike rental activity in Berlin. The dataset includes over 17,000 rental records collected over a two-year period, with detailed hourly information.
--  **Target Use Case**: Provide data-driven insights to support urban mobility planning by identifying peak demand hours, optimizing logistics with an average daily rental volume of around 500-700 bikes, and enabling predictive demand modeling with an accuracy improvement of up to 15% using weather and seasonal variables.
+An independent bike-sharing analysis project exploring rental activity, trip locations and usage patterns through Python notebooks and visualizations.
+
+The dataset's original source, geographic coverage and collection period need to be documented before interpreting the findings as representative of Berlin.
+
 
 ---
 
