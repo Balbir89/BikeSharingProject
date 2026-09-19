@@ -27,12 +27,13 @@ The dataset's original source, geographic coverage and collection period need to
 - Clear and warm weather increases rentals by **25%**, while rainy days reduce usage by up to **50%**.  
 - Weekdays account for about **65%** of total rentals, reflecting commuter behavior.
 
-## How to Run
+## How to Explore
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Balbir89/BikeSharingProject.git
-   cd BikeSharingProject
+Start with `BikeSharing_Berlin_Cleaned_Combined.ipynb` and review the charts in `images/`.
+
+The input datasets referenced in the documentation are not included in this repository. Reproducing the analysis requires those datasets and their source information.
+
+---
 
 
 2. Install required packages:
