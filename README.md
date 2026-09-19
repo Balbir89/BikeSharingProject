@@ -178,11 +178,6 @@ Run the cells from top to bottom to generate the charts and maps. Folium is impo
 
 The route-sampling cell requires at least 100 rows with complete origin and destination coordinates. Map rendering may be resource-intensive for large datasets.
 
-### 6. Run the Analysis
-
-Run the notebook cells in order to inspect the data and generate charts and maps.
-
-The route-sampling cell requires at least 100 rows with complete origin and destination coordinates. Map rendering may be resource-intensive for large datasets.
 
 ## Repository Contents
 
