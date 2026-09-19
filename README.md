@@ -104,10 +104,6 @@ BikeSharingProject/
 
 ---
 
-Yes, you can express the outcomes of your project in **quantifiable terms** to make them more impactful and professional. Here's how you might rewrite the **Outcome** section with numerical results:
-
----
-
 ### Quick Access
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FYRNBP8zQJjSJBxNRSmgN5_1QXlUdmCm)
