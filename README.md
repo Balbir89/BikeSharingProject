@@ -173,13 +173,9 @@ Place the file in the repository root. Only load pickle files from a trusted sou
 jupyter notebook BikeSharing_Berlin_Cleaned_Combined.ipynb
 ```
 
-### 5. Check the Folium Import
+### 5. Run the Notebook
 
-The current notebook references Folium before its later import cell. Add this line to the first import cell before running the notebook from top to bottom:
-
-```python
-import folium
-```
+Run the cells from top to bottom. Folium is imported in the first code cell before the map visualizations use it.
 
 ### 6. Run the Analysis
 
